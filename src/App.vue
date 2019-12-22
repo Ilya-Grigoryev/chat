@@ -1,4 +1,4 @@
-<!-- Тестирую git commit, не обращайте внимания)) -->
+<!-- Тестирую git commit, не обращайте внимания) -->
 <template>
   <div id="app">
     <Container>
